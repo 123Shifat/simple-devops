@@ -3,7 +3,6 @@
 - files
     - main.txt
     - new.py
-    - test.txt
     - README.md
 - Names (Shifat) 
 
